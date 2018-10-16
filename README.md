@@ -11,3 +11,18 @@
   - swig : 模板解析引擎
   - mongoose : 操作mongodb数据
   - markdown : markdown语法解析生成模块
+  
+- 创建项目，然后对项目进行初始化
+```
+npm init
+```
+## 安装上述框架
+```
+npm install --save express
+npm install --save cookies
+npm install --save markdown
+npm install --save cookies
+npm install --save mongoose
+npm install --save swig
+npm install --save body-parser
+```
