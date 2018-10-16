@@ -16,7 +16,7 @@
 ```
 npm init
 ```
-## 安装上述框架
+### 安装上述框架
 ```
 npm install --save express
 npm install --save cookies
@@ -25,4 +25,9 @@ npm install --save cookies
 npm install --save mongoose
 npm install --save swig
 npm install --save body-parser
+```
+
+## 目录结构
+```
+
 ```
