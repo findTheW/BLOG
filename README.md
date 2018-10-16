@@ -28,8 +28,4 @@ npm install --save body-parser
 ```
 
 ## 目录结构
-```
-
-```
 ![image](https://github.com/findTheW/Photo/blob/master/Snipaste_2018-10-16_23-01-54.png?raw=true)
-![image](https://github.com/findTheW/Photo/blob/master/Snipaste_2018-10-16_23-01-54.png)
